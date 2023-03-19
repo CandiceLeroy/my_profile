@@ -1,0 +1,38 @@
+body {
+	background-color: #F4F9E9;
+	color: #001524;
+	font-family: courier;
+	font-size: 12px;
+	font-weight: 200;
+}
+
+h1 {
+	font-family: Bubblegum Sans;
+}
+
+h2 {
+	font-family: Kanit;
+	font-weight: 700;
+}
+
+p {
+	font-family: Kanit;
+	font-weight: 500;
+}
+
+a {
+	text-decoration: none;
+	transition: all 1s ease;
+}
+
+
+.image img {
+	width: 201px;
+	height: 201px;
+	border-radius: 100%;
+}
+
+.DonutsTea a {
+	color: #EA3940;
+	font-weight: 700;
+}
